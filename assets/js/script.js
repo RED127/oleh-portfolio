@@ -56,8 +56,8 @@ var skills = [
     icon: "https://img.icons8.com/color/48/000000/javascript--v1.png",
   },
   {
-    name: "Java",
-    icon: "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png",
+    name: "Laravel",
+    icon: "https://laravel.com/img/logomark.min.svg",
   },
   {
     name: "Kotlin",
